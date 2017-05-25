@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">TicTok 2</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="whattodo1">A challenge will appear on your screen \n every 15 minutes; starting \n from 8:00 AM to 1:00 AM</string>
+    <string name="whattodo2">Each challenge will have 5-6 questions</string>
+    <string name="whattodo3">Fastest to answer correctly wins. </string>
+    <string name="wantMore">Fastest to answer correctly wins. </string>
+    <string name="facebook_app_id">1361605120561454</string>
+
+    <string name="fb_login_protocol_scheme">fb1361605120561454</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="type">
+        <item>New Game</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
 </resources>

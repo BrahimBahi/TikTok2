@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Mac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/Mac/Desktop/TikTok2/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_202bd95766c1609ccf691604098bfbb4de46bbcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mac/.android/build-cache/8c18c64391aa959a1c1341252039a56c37ba91d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5cbc9214ee567ea6ef56fb2707d48e58d240fc2">
+        <dex dex="/Users/Mac/Desktop/TikTok2/app/build/intermediates/pre-dexed/debug/classes_56c1af3333746428aba8a9c8c13222905c594243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mac/.android/build-cache/c94e25408cb091456ef3b89d8da7d525af794324/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/Mac/Desktop/TikTok2/app/build/intermediates/pre-dexed/debug/classes_599659ef177ebcbcf7c67169334ecf55e2d82819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mac/.android/build-cache/47cf0222c1777af6d2f859eee63585e0ed1c242b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/Mac/Desktop/TikTok2/app/build/intermediates/pre-dexed/debug/classes_d7c865eb5d7183797c2a502ba2ff10e4b0acc659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Mac/Desktop/TikTok2/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_41d9bea3566e4ec2280324a92730f5bff8c49297.jar" />
+    </item>
+
+</items>
